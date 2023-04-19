@@ -10,4 +10,7 @@ var age = 32
 var booksRead = 154
 var carsCrashed = 2
 
-// Strings
+// Booleans
+var female = true
+var male = false
+var petOwner = true
