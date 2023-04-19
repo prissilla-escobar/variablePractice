@@ -14,3 +14,12 @@ var carsCrashed = 2
 var female = true
 var male = false
 var petOwner = true
+
+coordinates = "31.7619° N, 106.4850° W"
+phoneNumber = "1-800-890-1234"
+email = "denver@denver.com"
+
+
+console.log(coordinates)
+console.log(carsCrashed)
+console.log(petOwner)
